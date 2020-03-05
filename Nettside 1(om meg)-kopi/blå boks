@@ -1,0 +1,13 @@
+div{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    -webkit-transition: widht 2s;
+    transition: widht 2s    
+    
+}
+
+div:hover {
+    width: 300px;
+    float: inherit;
+}
